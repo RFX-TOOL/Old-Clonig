@@ -2,6 +2,8 @@ import os, platform, time, sys
 
 os.system('xdg-open https://t.me/dark_xploit_rfx')
 time.sleep(2)
+os.system('xdg-open https://chat.whatsapp.com/Jf2dkgIvjwjEI6GocE7C86?mode=gi_t')
+time.sleep(2)
 try:
     import requests
 except:
