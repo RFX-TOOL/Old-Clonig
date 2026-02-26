@@ -9,3 +9,9 @@ git clone https://github.com/RFX-TOOL/Old-Clonig.git
 cd Old-Clonig
 python run.py
 
+
+## 📸 Screenshot
+
+![App Screenshot](https://github.com/RFX-TOOL/Old-Clonig/blob/main/1772079741647.jpg)
+
+
