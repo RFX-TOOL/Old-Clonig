@@ -1,5 +1,5 @@
 import os, platform, time, sys
-os.system('xdg-open https://chat.whatsapp.com/Jf2dkgIvjwjEI6GocE7C86')
+os.system('xdg-open https://chat.whatsapp.com/DFj8atKbJZYE1zc68YMnvK?mode=gi_t')
 time.sleep(2)
 
 try:
