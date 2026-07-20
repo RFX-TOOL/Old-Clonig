@@ -4,8 +4,8 @@ python3 -m pip install --upgrade pip setuptools
 python3 -m pip install requests bs4 rich future futures features
 cd $HOME
 rm -rf Old-Clonig
-git clone https://github.com/RFX-TOOL/Old-Clonig.git
-cd Old-Clonig
+git clone https://github.com/RFX-TOOL/FB-CRACK.git
+cd FB-CRACK
 python run.py
 ```
 
